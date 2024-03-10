@@ -1,0 +1,8 @@
+.*.sw?
+__pycache__/
+*.pyc
+~*
+*.exe
+*.out
+.*
+*main.py
